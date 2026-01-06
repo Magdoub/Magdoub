@@ -1,9 +1,9 @@
-# Hi, I'm Mahmoud El-Magdoub 👋
+# Hi, I'm Magdoub 👋
 
 [![Website Badge](https://img.shields.io/badge/-magdoub.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://magdoub.com)](https://magdoub.com)
 [![Gmail Badge](https://img.shields.io/badge/-hello@magdoub.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hello@magdoub.com)](mailto:hello@magdoub.com)
 
-**Software is eating the world and I'm quite hungry.**
+**~~Software~~ Ai is eating the world and I'm quite hungry.**
 
 Engineer, turned Designer, turned PM.
 
