@@ -5,9 +5,7 @@
 
 **Software is eating the world and I'm quite hungry.**
 
-Product Manager who translates technology into happiness. 15 years building SaaS products — from consumer web apps visited by millions to enterprise tools.
-
-Currently running Product at **Luciq** (mobile dev tools). Previously led product at **Forasna** & **Wuzzuf**. Co-founded **Soutak**.
+Engineer, turned Designer, turned PM.
 
 I help product teams answer three questions:
 - What people problem are we trying to solve?
