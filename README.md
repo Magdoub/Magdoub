@@ -17,4 +17,6 @@ I thrive in uncertainty and maker cultures where prototyping and experimenting a
 
 ### Recent News
 - Published [Mr Sleep](https://mrsleep.cc/) - iOS app for sleep tracking
+- Published [Mobile Vitals](https://mobile-vitals.com/) - The largest curated repo of Mobile App Performance thought pieces
+- Published [App Size Analyzer](https://appsizeanalyzer.com/) - A tool that helps iOS and Android Engineers diagnose the App Size of their app
 - Wrote [What Every Software Engineer Should Know About Building Products](https://notikea.substack.com/p/what-every-software-engineer-should)
